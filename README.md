@@ -33,16 +33,22 @@ And I am an aspiring full-stack developer and programming student at Artevelde U
 ---
 
 ## Github Stats
-[![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-chardelv1&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/pgm-chardelv1)
+<a href="https://github.com/pgm-chardelv1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pgm-chardelv1&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/pgm-chardelv1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-chardelv1&count_private=true&theme=tokyonight&layout=compact" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-chardelv1&count_private=true&theme=tokyonight&layout=compact&langs_count=3)](https://github.com/pgm-chardelv1)
-
-[![Spotify-like API Card](https://github-readme-stats.vercel.app/api/pin/?username=pgm-chardelv1&repo=spotifylike_api&theme=tokyonight)](https://github.com/pgm-chardelv1/spotifylike_api)
-
-[![#GF2020 Card](https://github-readme-stats.vercel.app/api/pin/?username=pgm-chardelv1&repo=gf2020&theme=tokyonight)](https://github.com/pgm-chardelv1/gf2020)
-
-[![Dev Quiz Card](https://github-readme-stats.vercel.app/api/pin/?username=pgm-chardelv1&repo=dev_quiz&theme=tokyonight)](https://github.com/pgm-chardelv1/dev_quiz)
-
+<a href="https://github.com/pgm-chardelv1/spotifylike_api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgm-chardelv1&repo=spotifylike_api&theme=tokyonight" />
+</a>
+<a href="https://github.com/pgm-chardelv1/gf2020">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgm-chardelv1&repo=gf2020&theme=tokyonight" />
+</a>
+<a href="https://github.com/pgm-chardelv1/dev_quiz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgm-chardelv1&repo=dev_quiz&theme=tokyonight" />
+</a>
 
 <!--
 **pgm-chardelv1/pgm-chardelv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
