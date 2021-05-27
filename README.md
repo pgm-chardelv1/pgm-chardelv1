@@ -28,7 +28,7 @@ And I am an aspiring full-stack developer and programming student at Artevelde U
 
 ## Volunteering Experience
 - 2019 - ... : **Peer Health Coach** - *Karus vzw*
-- 2019 - 2020 : **Lived Experience Speaker** at various high schools - *Te Gek!? vzw / Steunpunt Geestelijke gezondheid*
+- 2019 - 2020 : **Lived Experience Speaker** at various high schools - *Te Gek!? vzw / Steunpunt Geestelijke Gezondheid*
 - 2017 - 2019 : **Board member**/**Web developer** - *Verwonderd vzw*
 ---
 
