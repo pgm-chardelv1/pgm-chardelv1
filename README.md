@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Charlotte Delvaux!
-And I am an aspiring full-stack developer and programming student at Artevelde University of Applied Sciences. In my free time I'm an avid reader of fantasy novels, a PC gamer and Magic card collector. I like to try out new sports and hobbies, such as Authentic Jazz, or a handstand workshop. Due to COVID-19 those are sadly put on hold for now.
+And I am an aspiring full-stack developer and programming student at Artevelde University of Applied Sciences. I live in Ghent, and in my spare time I love reading fantasy novels, hiking and staring at the night sky.
 
 ## Contact
 :email: [charlotte.delvaux@vauxdell.be](mailto:charlotte.delvaux@vauxdell.be) 
@@ -25,6 +25,12 @@ And I am an aspiring full-stack developer and programming student at Artevelde U
 - 2020 - 2022 : **Associate Degree** in **Computer Programming** - *Artevelde University for Applied Sciences*
 - 2011 - 2013 : **Bachelor of Science** in **Clinical Psychology** - *Ghent University*
 - 2009 - 2011 : **Associate Degree** in **Computer Science - Programming** - *CVO Panta Rhei*
+
+## Coding Experience
+- 07/2021 : **Student Developer** at *Open Summer of Code - 2021 edition*
+  - [Oost-Vlaanderen BikeInfrastructure info](https://osoc21.github.io/BikeInfrastructure/)
+  - [Oost-Vlaanderen BikeInfrastructure on Github](https://github.com/osoc21/BikeInfrastructure)
+  - [MapComplete BikeInfrastructure Live](https://pietervdvn.github.io/mc/develop/cycle_infra.html?z=19&lat=51.05794&lon=3.723973&language=nl#)
 
 ## Volunteering Experience
 - 2019 - ... : **Peer Health Coach** - *Karus vzw*
