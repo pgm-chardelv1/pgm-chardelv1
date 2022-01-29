@@ -11,8 +11,8 @@ And I am an aspiring full-stack developer and programming student at Artevelde U
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github">](https://github.com/pgm-chardelv1)
 
 
-## IT Experience
-<img alt="HTML5" src="https://img.shields.io/badge/Code-HTML5-62b6ca?style=plastic&logo=html5&logoColor=83da77&color=83da77"> <img alt="CSS3" src="https://img.shields.io/badge/Code-CSS3-62b6ca?style=plastic&logo=css3&logoColor=83da77&color=83da77"> <img alt="JavaScript" src="https://img.shields.io/badge/Code-JavaScript-62b6ca?style=plastic&logo=javascript&logoColor=83da77&color=83da77"> <img alt="SASS" src="https://img.shields.io/badge/Code-SASS-62b6ca?style=plastic&logo=sass&logoColor=83da77&color=83da77"> <img alt="VB.NET" src="https://img.shields.io/badge/Code-Visual_Basic-62b6ca?style=plastic&logo=dot-net&logoColor=83da77&color=83da77"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Editor-Visual_Studio_Code-62b6ca?style=plastic&logo=Visual-Studio-Code&logoColor=83da77&color=83da77"> <img alt="Node" src="https://img.shields.io/badge/Tools-Node-62b6ca?style=plastic&logo=Node-dot-js&logoColor=83da77&color=83da77"> <img alt="Express" src="https://img.shields.io/badge/Tools-Express-62b6ca?style=plastic&logo=Express&logoColor=83da77&color=83da77"> <img alt="Adobe XD" src="https://img.shields.io/badge/Design-Adobe_XD-62b6ca?style=plastic&logo=Adobe-XD&logoColor=83da77&color=83da77"> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Design-Adobe_Photoshop-62b6ca?style=plastic&logo=Adobe-Photoshop&logoColor=83da77&color=83da77"> <img alt="React" src="https://img.shields.io/badge/Framework-React-62b6ca?style=plastic&logo=React&logoColor=83da77&color=83da77"> <img alt="Angular" src="https://img.shields.io/badge/Framework-Angular-62b6ca?style=plastic&logo=Angular&logoColor=83da77&color=83da77"> <img alt="Joomla" src="https://img.shields.io/badge/CMS-Joomla-62b6ca?style=plastic&logo=Joomla&logoColor=83da77&color=83da77"> <img alt="WordPress" src="https://img.shields.io/badge/CMS-WordPress-62b6ca?style=plastic&logo=Wordpress&logoColor=83da77&color=83da77"> <img alt="Windows" src="https://img.shields.io/badge/OS-Windows-62b6ca?style=plastic&logo=Windows&logoColor=83da77&color=83da77"> <img alt="Ubuntu" src="https://img.shields.io/badge/OS-Ubuntu-62b6ca?style=plastic&logo=Ubuntu&logoColor=83da77&color=83da77"> <img alt="RaspberryPi OS" src="https://img.shields.io/badge/OS-Raspberry_Pi_OS-62b6ca?style=plastic&logo=Raspberry-Pi&logoColor=83da77&color=83da77">
+## Coding
+<img alt="TypeScript" src="https://img.shields.io/badge/Code-TypeScript-62b6ca?style=plastic&logo=typescript&logoColor=83da77&color=83da77"> <img alt="JavaScript" src="https://img.shields.io/badge/Code-JavaScript-62b6ca?style=plastic&logo=javascript&logoColor=83da77&color=83da77"> <img alt="Express" src="https://img.shields.io/badge/Tools-Express-62b6ca?style=plastic&logo=Express&logoColor=83da77&color=83da77"> <img alt="Nest" src="https://img.shields.io/badge/Code-Nest-62b6ca?style=plastic&logo=nestjs&logoColor=83da77&color=83da77"> <img alt="React" src="https://img.shields.io/badge/Framework-React-62b6ca?style=plastic&logo=React&logoColor=83da77&color=83da77"> <img alt="Nx" src="https://img.shields.io/badge/Code-Nx-62b6ca?style=plastic&logo=nx&logoColor=83da77&color=83da77">
 
 
 ## Languages
@@ -46,14 +46,10 @@ And I am an aspiring full-stack developer and programming student at Artevelde U
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-chardelv1&count_private=true&theme=tokyonight&layout=compact" />
 </a>
 
-<a href="https://github.com/pgm-chardelv1/spotifylike_api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgm-chardelv1&repo=spotifylike_api&theme=tokyonight" />
-</a>
-<a href="https://github.com/pgm-chardelv1/gf2020">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgm-chardelv1&repo=gf2020&theme=tokyonight" />
-</a>
-<a href="https://github.com/pgm-chardelv1/dev_quiz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgm-chardelv1&repo=dev_quiz&theme=tokyonight" />
+## 🔭 I’m currently working on:
+
+<a href="https://github.com/pgm-chardelv1/drijfvuil-ws">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgm-chardelv1&repo=drijfvuil-ws&theme=tokyonight" />
 </a>
 
 <!--
