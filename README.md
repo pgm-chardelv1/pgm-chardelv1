@@ -46,6 +46,7 @@ And I am an aspiring full-stack developer and programming student at Artevelde U
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-chardelv1&count_private=true&theme=tokyonight&layout=compact" />
 </a>
 
+<!--
 ## 🔭 I’m currently working on:
 
 <a href="https://github.com/pgm-chardelv1/drijfvuil-ws">
